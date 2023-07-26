@@ -18,7 +18,6 @@ Please note that this project is a frontend-only implementation and does not inc
 ## Preview
 
 ![Preview of Omnifood Website](https://github.com/pulak-sarmah/omnifood-ai-meal-planner/blob/main/img/app/Screenshot%202023-07-26%20at%2010.17.54%20AM.png?raw=true)
-![Preview of Omnifood Website](![Preview of Omnifood Website](https://github.com/pulak-sarmah/omnifood-ai-meal-planner/blob/main/img/app/Screenshot%202023-07-26%20at%2010.17.54%20AM.png?raw=true))
 
 
 ## Usage
